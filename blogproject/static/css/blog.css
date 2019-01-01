@@ -1,0 +1,61 @@
+.content{
+    width   : 60%;
+    float   : left;
+    padding : 0 0 0 30px;
+    background : green;
+    height  : 100%;
+}
+
+.sidebar{
+    width   : 40%;
+    float   : right;
+    padding : 10px;
+    background  : black;
+    height  : 100%;
+}
+h1{
+    text-align  : center;
+    border-bottom   : 1px solid yellow;
+    padding-bottom  : 10px;
+}
+
+body{
+    color   : white;
+    background : green;
+}
+
+#date{
+    color   : yellow;
+    fonr-size   : 12px;
+    font-style  : italic;
+}
+
+a{
+    color   : #669999;
+}
+
+input [type = 'text'] {
+    background  : blue;
+    color : white;
+}
+
+.sidebar{
+    border : 1px solid yellow;
+}
+
+#ch{
+    color   : yellow;
+    fonr-size   : 30px;
+    font-style  : italic;
+    border-bottom   : 2px solid yellow;
+}
+
+.tagbox {
+    border  : 1px solid YELLOW;
+}
+
+#pcount{
+    font-size   : 40px;
+    font-color  : yellow;
+    font-weight : bold;
+}
